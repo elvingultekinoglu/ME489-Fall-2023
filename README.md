@@ -1,5 +1,5 @@
 # ME489HW1
-# This repository is created for ME489 Lecture Homework 1. 
+# This repository is created for ME489 Lecture. 
 Name-Surname: Elvin Gültekinoğlu
 
 Student ID: 2446169
