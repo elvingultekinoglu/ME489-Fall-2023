@@ -31,11 +31,11 @@
 
 # Number of nodes in x direction
 [NX]
-400
+401
 
 #number of nodes in y direction
 [NY]
-400
+401
 
 # Wrte output in every given time steps
 [OUTPUT_FREQUENCY]
