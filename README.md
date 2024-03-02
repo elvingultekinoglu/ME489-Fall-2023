@@ -1,15 +1,4 @@
 # ME489HW1
-# This repository is created for ME489 Lecture. 
-Name-Surname: Elvin Gültekinoğlu
-
-Student ID: 2446169
-
-Gmail: elvingultekinoglu@hotmail.com / elvinkgultekinoglu@gmail.com 
-
-Phone Number: 05301838724
-
-#Group Member Information 
-
-Name-Surname: Şamil Dinçer 
-
-Student ID: 2236248
+# This repository is created for ME489 Scientific Programming Lecture. 
+# There are projects completed throughout the semester for this lecture. 
+# Special thanks to my project member Şamil Dinçer. 
